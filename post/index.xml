@@ -12,21 +12,22 @@
     
     
     <item>
+      <title>Project 2: Software Engineer Salary Estimator Tool</title>
+      <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 03 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</guid>
+      <description>Coming June 2020</description>
+    </item>
+    
+    <item>
       <title>Project 1: Penn State Post-Grad Salary Analysis</title>
       <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-1/</link>
       <pubDate>Tue, 02 Jun 2020 10:58:08 -0400</pubDate>
       
       <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-1/</guid>
-      <description>Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.    Link to GitHub Repository</description>
-    </item>
-    
-    <item>
-      <title>Project 2: Salary Estimator</title>
-      <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</guid>
-      <description>Coming Soon Engineered features coming Soon Optimized Linear, Lasso, and Random Forest Regressors all coming soon    Link to GitHub Repository</description>
+      <description>Due to COVID-19, Many college graduates across the United States have unfortunately experienced a hard time hunting for Full-Time opportunities in the job market. This analysis was done with the intention of providing gradates of The Pennsylvania State University Donald P. Bellisario College of Communications an up to date analysis of what locations are currently offering the most jobs and what locations are offering best pay for each position.
+This analysis also gives graduates and rising seniors an idea of what each job position has an average salary across the country in various locations which can be useful when in negotiation of a salary.</description>
     </item>
     
   </channel>
