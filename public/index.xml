@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Mario Paul</title>
+    <link>https://mariorashadhub.github.io/Paul_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Mario Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://mariorashadhub.github.io/Paul_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 3: BMW Automotive Price Analysis</title>
+      <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-3/</link>
+      <pubDate>Thu, 03 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-3/</guid>
+      <description>Coming January 2021</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Software Engineer Salary Estimator Tool</title>
+      <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 01 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-2/</guid>
+      <description>● Developed a web application for software engineers to get a general idea of how much they can potentially make in the United States with their level of knowledge.
+● Scraped over 1000 job descriptions from Glassdoor using Python and Selenium.
+● Engineered features in the application to allow customization by the user to select options that reflect their value and experience for more personalized results.
+● Deployed model using Streamlit.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Penn State Post-Grad Salary Analysis</title>
+      <link>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 02 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://mariorashadhub.github.io/Paul_Portfolio/post/chapter-1/</guid>
+      <description>Due to COVID-19, many college graduates across the United States have unfortunately experienced a hard time searching for Full-Time opportunities in the job market. This analysis was done with the vision of providing graduates of The Pennsylvania State University Donald P. Bellisario College of Communications an up to date analysis of what locations are currently offering the most jobs and best salaries for each position.
+With this analysis, graduates and rising seniors can obtain an idealistic view of what each position entails, an average salary of across the country, in various locations which can be useful when negotiating salaries:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mariorashadhub.github.io/Paul_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariorashadhub.github.io/Paul_Portfolio/contact/</guid>
+      <description>   Email: mariorashad.paul@gmail.com    Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/MarioRashadData   LinkedIn: https://www.linkedin.com/in/mario-rashad-paul   Medium: https://medium.com/@mariorashad.paul   GitHub: https://github.com/MarioRashadHUB    </description>
+    </item>
+    
+  </channel>
+</rss>
